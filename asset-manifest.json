@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ticgame/static/js/main.90f0a7a4.js",
+    "index.html": "/ticgame/index.html",
+    "main.90f0a7a4.js.map": "/ticgame/static/js/main.90f0a7a4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.90f0a7a4.js"
+  ]
+}
